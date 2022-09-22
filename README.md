@@ -8,5 +8,8 @@
 2. Next, you make a program. (For me, I choose Node.js because it's really simple.)
 3. Finally, you publish the phishing website with an appropriate domain name.
 
+### For people who want to use my program 
+If you want to mimic another website's login page, you have to edit server.js for sure.
+
 ### Example Image
 ![Test Image 3](/ex4mple.png)
