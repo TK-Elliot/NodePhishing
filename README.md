@@ -1,7 +1,7 @@
 # NodePhishing
 
-## This is a super simple Phishing Website written in Node.js.
-### This is for educational purposes only. I do NOT encourage people to do something illegal.
+This is a super simple Phishing Website written in Node.js.<br />
+This is for educational purposes only. I do NOT encourage people to do something illegal.
 
 ### How to make it
 1. Fist of all, you copy the login page source of the website you want to mimic. (For me, I choose Facebook. No reason at all.)
